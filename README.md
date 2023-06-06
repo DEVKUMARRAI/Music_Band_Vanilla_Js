@@ -1,6 +1,6 @@
-# Drum Instrument Website
+# Music Band Website
     
-    -> This project is a drum instrument website that allows users to play virtual drums online. It is built using HTML, CSS, and vanilla JavaScript.
+    -> This project is a Music instrument website that allows users to play virtual drums online. It is built using HTML, CSS, and vanilla JavaScript.
 
 # Features
 
