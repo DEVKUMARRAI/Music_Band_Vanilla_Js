@@ -21,13 +21,18 @@
     flex-direction: row;
 }
 .key{
+    
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
+    /* Black shadow with 10px blur */
+    filter:drop-shadow(2px 3px 9px black);
+
     
 }
 .key kbd{
+    background-color: #aaabad;
     font-size: 2rem;
     border: 2px solid #232425a6;
     width: 50%;
