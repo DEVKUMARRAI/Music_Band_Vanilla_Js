@@ -28,7 +28,7 @@
     align-items: center;
     /* Black shadow with 10px blur */
     filter:drop-shadow(2px 3px 9px black);
-
+    transition: all 0.07s;
     
 }
 .key kbd{
@@ -38,4 +38,9 @@
     width: 50%;
     text-align: center;
     height: 100%;
+}
+.playing kbd{
+    transform: scale(1.4);
+    border-color: yellow;
+    box-shadow: 0 0 20px yellow;
 }
